@@ -1,0 +1,74 @@
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Financial_Processing.exe.config
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Financial_Processing.exe
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Financial_Processing.pdb
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.csprojAssemblyReference.cache
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.Login.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.Properties.Resources.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.csproj.GenerateResource.cache
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.csproj.CoreCompileInputs.cache
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.csproj.CopyComplete
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.exe
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.pdb
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.landing_page.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.add_admin.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.Dashboard.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.paymentfrm.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.salary.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\MySql.Data.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Google.Protobuf.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Zstandard.Net.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\Renci.SshNet.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\System.Memory.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\System.Buffers.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\bin\Debug\MySql.Data.xml
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.exe.config
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.expense.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.Add_resident.resources
+C:\Users\bendict\source\repos\Financial_Processing_system\Financial_Processing\obj\Debug\Financial_Processing.Add_personnel.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Financial_Processing.exe.config
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.exe
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.pdb
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Financial_Processing.exe
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Financial_Processing.pdb
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\mscorlib.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Zstandard.Net.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\Renci.SshNet.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\System.Net.Http.xml
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\normidna.nlp
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\normnfc.nlp
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\normnfd.nlp
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\normnfkc.nlp
+C:\Users\admin\Desktop\Update Project\Financial_Processing\bin\Debug\normnfkd.nlp
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.add_admin.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.Add_personnel.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.Add_resident.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.Dashboard.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.expense.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.landing_page.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.Login.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.paymentfrm.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.Properties.Resources.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.salary.resources
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Update Project\Financial_Processing\obj\Debug\Financial_Processing.Message.resources
