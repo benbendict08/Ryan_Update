@@ -84,12 +84,6 @@
       <DependentUpon>expense.cs</DependentUpon>
     </Compile>
     <Compile Include="global.cs" />
-    <Compile Include="Message.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Message.Designer.cs">
-      <DependentUpon>Message.cs</DependentUpon>
-    </Compile>
     <Compile Include="paymentfrm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -136,9 +130,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Message.resx">
-      <DependentUpon>Message.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="paymentfrm.resx">
       <DependentUpon>paymentfrm.cs</DependentUpon>

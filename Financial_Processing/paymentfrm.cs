@@ -85,128 +85,8 @@ namespace Financial_Processing
                 conn.Close();
                 viewdata();
             }
-            
-            
         }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void panel5_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label12_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void label10_Click(object sender, EventArgs e)
-        {
-            
-            
-        }
-        
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            
-
-        }
-
-        private void panel6_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label10_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged_2(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel5_Paint_1(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label10_Click_2(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged_3(object sender, EventArgs e)
-        {
-
-        }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void panel6_Paint_1(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        
-
-        private void listView2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label15_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel5_Paint_2(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
         {
 
         }
@@ -229,12 +109,12 @@ namespace Financial_Processing
         private void searchbtn_Click(object sender, EventArgs e)
         {
             searchform.Visible = true;
-            searchform.Size = new Size(667, 360);
+            searchform.Size = new Size(658, 352);
             pictureBox1.Visible = true;
-            pictureBox1.Location = new Point(650, 91);
+            pictureBox1.Location = new Point(1017, 89);
         }
 
-        private void pictureBox1_Click_1(object sender, EventArgs e)
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
             searchform.Visible = false;
             pictureBox1.Visible = false;
@@ -258,30 +138,32 @@ namespace Financial_Processing
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            conn.Open();
-
-            MySqlCommand cmd = new MySqlCommand("SELECT fname, mname, lname, contnum, blk, lot, street from resident WHERE accnum =@accnum", conn); 
-            cmd.Parameters.AddWithValue("@accnum", int.Parse(textBox2.Text));
-            GetReader = cmd.ExecuteReader();
-            while (GetReader.Read())
+            if (String.IsNullOrEmpty(textBox2.Text))
             {
-                fbox.Text = GetReader.GetValue(0).ToString();
-                mbox.Text = GetReader.GetValue(1).ToString();
-                lbox.Text = GetReader.GetValue(2).ToString();
-                textBox1.Text = GetReader.GetValue(3).ToString();
-                blkbox.Text = GetReader.GetValue(4).ToString();
-                lotbox.Text = GetReader.GetValue(5).ToString();
-                streetbox.Text = GetReader.GetValue(6).ToString();
-            
+                MessageBox.Show("please fill acount number");
             }
-            conn.Close();
-            GetReader.Close();
-     
-        }
+            else
+            {
+                conn.Open();
+                MySqlCommand cmd = new MySqlCommand("SELECT fname, mname, lname, contnum, blk, lot, street from resident WHERE accnum =" + textBox2.Text + "", conn);
+                //cmd.Parameters.AddWithValue("@accnum", int.Parse(textBox2.Text));
+                GetReader = cmd.ExecuteReader();
+                while (GetReader.Read())
+                {
+                    fbox.Text = GetReader.GetValue(0).ToString();
+                    mbox.Text = GetReader.GetValue(1).ToString();
+                    lbox.Text = GetReader.GetValue(2).ToString();
+                    textBox1.Text = GetReader.GetValue(3).ToString();
+                    blkbox.Text = GetReader.GetValue(4).ToString();
+                    lotbox.Text = GetReader.GetValue(5).ToString();
+                    streetbox.Text = GetReader.GetValue(6).ToString();
 
-        private void searchform_Paint(object sender, PaintEventArgs e)
-        {
-
+                }
+                conn.Close();
+                GetReader.Close();
+            }
+            
+            
         }
 
         private void button2_Click_1(object sender, EventArgs e)
